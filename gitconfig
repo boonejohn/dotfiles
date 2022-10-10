@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = j.raditya.b@gamial.com
+	name = John Boone
